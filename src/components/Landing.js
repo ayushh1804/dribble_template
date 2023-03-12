@@ -16,7 +16,7 @@ const Landing = () => {
             <div><p className='text-gray-400'>12 dec 2022 ✦ 23 Saves  </p></div>
             <div><p className='font-bold text-lg my-4'>Bitcoin is an innovative payment network</p></div>
             <div><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Lorem, ipsum dolor.</p></div>
-            <div><button className=' mt-5  bg-gradient-to-r from-purple-700 to-blue-400 rounded-2xl p-2' >Follow Category</button></div>
+            <div><button className=' mt-5  bg-gradient-to-r from-purple-700 to-blue-400 rounded-2xl p-3 hover:font-bold' >Follow Category</button></div>
           </div>
         </div>
       </div>
@@ -35,7 +35,7 @@ const Landing = () => {
             <div><p className='text-gray-400'>12 dec 2022 ✦ 23 Saves  </p></div>
             <div><p className='font-bold text-lg my-4'>Bitcoin is an innovative payment network</p></div>
             <div><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Lorem, ipsum dolor.</p></div>
-            <div><button className='text-gray-500 mt-5 border-gray-600 border rounded-2xl p-1' >Unfollow Category</button></div>
+            <div><button className='text-gray-500 mt-5 border-gray-600 border rounded-2xl p-2 hover:font-bold' >Unfollow Category</button></div>
           </div>
         </div>
       </div>
@@ -50,7 +50,7 @@ const Landing = () => {
             <div><p className='text-gray-400'>12 dec 2022 ✦ 23 Saves  </p></div>
             <div><p className='font-bold text-lg my-4'>Bitcoin is an innovative payment network</p></div>
             <div><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Lorem, ipsum dolor.</p></div>
-            <div><button className='text-gray-500 mt-5 border-gray-600 border rounded-2xl p-1' >Unfollow Category</button></div>
+            <div><button className='bg-gradient-to-r from-purple-700 to-blue-400 mt-5  border rounded-2xl p-2 hover:font-bold' >Follow Category</button></div>
           </div>
         </div>
       </div>
